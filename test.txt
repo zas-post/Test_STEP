@@ -1,6 +1,4 @@
-line two
-
-line one
+ine one
 
 1212
 
@@ -15,3 +13,5 @@ ewqweweqwe
 
 commit test
 new branch line
+
+newt tets line
